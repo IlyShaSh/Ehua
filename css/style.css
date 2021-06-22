@@ -857,6 +857,9 @@ header {
 
 .comment__icon {
   margin-bottom: 18px;
+  width: 40px;
+  height: 46px;
+  margin: 0 auto;
 }
 
 .comment__text {
